@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.dropdown a.dropdown-toggle {
+    color: #fff !important;
+}
+
+.navigationli1 ul li a {
+    transition: all 0.4s;
+}
+
+.nav:hover {
+    background: #4a4a44;
+    border-radius: 5px;
+}
+
+.logo {
+    letter-spacing: 5px;
+    font-size: 1.3em;
+}
+
+.userLogIn {
+    color: #FFF;
+}
+
+.EnviarBlanco {
+    color: #fff;
+}
+
+.registrarse a:hover {
+    color: rgb(223, 19, 19);
+}
+
+.textBlanco {
+    color: #fff;
+}
+
+.userLogIn:focus,
+.userLogIn:hover {
+    color: #016D7A;
+}
+
+.bodybody {
+    background-image: url('./img/fondo.avif');
+    background-repeat: repeat;
+    background-size: cover;
+    height: 110vh;
+    background-position: top;
+}
+
+
+.Letras {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.3em;
+    font-size: 1rem;
+    columns: 2;
+}
+
+.fondoRegistro {
+    background-image: url('../img/pexels-alleksana-4185957.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    height: 110vh;
+    background-position: top;
+}
+
+.fondoIngreso {
+    background-image: url('../img/pexels-maria-orlova-4947408.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    height: 75vh;
+    background-position: bottom;
+}
+
+.colIngreso {
+    background-color: #FFF;
+    opacity: .9;
+    border-radius: 15px;
+}
+
+.footerAbsolute {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.foot {
+    color: transparent;
+}
+
+.footerRS {
+    color: transparent;
+}
+
+.footerRS svg:hover {
+    fill: #FFF;
+}
+
+.imgCarousel {
+    height: 500px;
+}
+
+.nav:hover {
+    background: transparent !important;
+}
